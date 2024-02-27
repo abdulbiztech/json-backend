@@ -1,4 +1,4 @@
-{
+
     "products": [
     {
       "img": "https://images.pexels.com/photos/14773449/pexels-photo-14773449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -89,4 +89,3 @@
       "id": "16da"
     }
   ],
-}
