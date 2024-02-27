@@ -1,0 +1,24 @@
+{
+   "users": [
+    {
+      "id": "edbe",
+      "email": "test@gmail.com",
+      "password": "Test@123",
+      "confirmPassword": "Test@123"
+    },
+    {
+      "id": "5da3",
+      "email": "abdulkarim@gmail.com",
+      "password": "Test@123",
+      "confirmPassword": "Test@123",
+      "acceptTerms": true
+    },
+    {
+      "id": "173c",
+      "email": "harshad@gmail.com",
+      "password": "Test@123",
+      "confirmPassword": "Test@123",
+      "acceptTerms": true
+    }
+  ],
+}
