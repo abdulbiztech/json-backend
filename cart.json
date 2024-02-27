@@ -1,0 +1,14 @@
+{
+    "cart": [
+    {
+      "id": "9d43",
+      "userId": "edbe",
+      "productId": "7b47",
+      "quantity": 3,
+      "name": "Basketball Shoes",
+      "description": "Durable basketball shoes with excellent ankle support.",
+      "price": "300",
+      "image": "https://images.pexels.com/photos/7327311/pexels-photo-7327311.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ],
+}
